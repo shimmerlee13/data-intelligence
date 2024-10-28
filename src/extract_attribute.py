@@ -60,6 +60,6 @@ for file in file_paths:  # file list
 result_df = pd.DataFrame(results)
 
 # DataFrame -> CSV file
-result_df.to_csv("../data_parsing/summary_statistics.csv", index=False, encoding='utf-8-sig')
+result_df.to_csv("../1-1. describe_result/summary_statistics.csv", index=False, encoding='utf-8-sig')
 
 print(result_df.head())
