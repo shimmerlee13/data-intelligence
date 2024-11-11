@@ -31,32 +31,34 @@ for file_name in df_summary['파일명'].unique():
 
 print("PK 후보:", pk_candidates)
 
-# 5. 공통 속성(FK 후보) 찾기
-common_columns = df_summary.groupby('컬럼명').filter(lambda x: x['대분류'].nunique() == df_summary['대분류'].nunique())
-common_column_names = common_columns['컬럼명'].unique()
-
-print("공통 속성(FK 후보):", common_column_names)
-
-# 6. 실제 데이터 로드 및 PK/FK 관계 체크
+# 5. 모든 테이블 간의 FK 관계 체크
 fk_candidates = {}
 
-for file_path in file_paths:
-    file_name = file_path.split("\\")[-1]  # 경로에서 파일명 추출
-    if file_name not in pk_candidates:
+for primary_file_path in file_paths:
+    primary_file_name = primary_file_path.split("\\")[-1]
+    if primary_file_name not in pk_candidates:
         continue  # PK 후보가 없는 파일은 건너뜁니다
 
-    # CSV 파일 로드
-    df = pd.read_csv(file_path)
+    # 기본 테이블 로드 (PK를 가지고 있는 테이블)
+    primary_df = pd.read_csv(primary_file_path)
+    primary_pk_columns = pk_candidates[primary_file_name]
 
-    # PK 후보 컬럼 추출
-    for pk_col in pk_candidates[file_name]:
-        for common_col in common_column_names:
-            # 공통 속성이 실제 데이터에 있는지 확인
-            if pk_col in df.columns and common_col in df.columns:
-                # 일치율 계산
-                match_rate = np.mean(df[pk_col].isin(df[common_col]))
-                if match_rate > 0.8:  # 80% 이상의 일치율을 FK 관계로 가정
-                    fk_candidates[(file_name, pk_col)] = common_col
+    for secondary_file_path in file_paths:
+        secondary_file_name = secondary_file_path.split("\\")[-1]
+        if primary_file_name == secondary_file_name:
+            continue  # 같은 파일 간의 관계는 생략
+
+        # FK 가능성을 체크할 대상 테이블 로드
+        secondary_df = pd.read_csv(secondary_file_path)
+
+        # PK 후보 컬럼을 다른 테이블에서 FK로 체크
+        for pk_col in primary_pk_columns:
+            if pk_col in primary_df.columns:
+                for fk_col in secondary_df.columns:
+                    # 일치율 계산
+                    match_rate = np.mean(secondary_df[fk_col].isin(primary_df[pk_col]))
+                    if match_rate > 0.8:  # 80% 이상의 일치율을 FK 관계로 가정
+                        fk_candidates[(secondary_file_name, fk_col)] = (primary_file_name, pk_col)
 
 print("FK 후보:", fk_candidates)
 
