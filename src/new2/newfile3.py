@@ -34,11 +34,11 @@ for file_name, df in dataframes.items():
                 max_sim_value = similarity_matrix[i, j]
                 max_sim_index = (i, j)
 
-    # 저장
+    # 저장 (origin파일명 컬럼 추가)
     row1 = df.iloc[max_sim_index[0]].copy()
     row2 = df.iloc[max_sim_index[1]].copy()
-    row1['파일명'] = file_name
-    row2['파일명'] = file_name
+    row1['origin파일명'] = file_name
+    row2['origin파일명'] = file_name
     row1['유사도'] = max_sim_value
     row2['유사도'] = max_sim_value
     most_similar_rows_within.append(row1)
@@ -75,11 +75,11 @@ for i in range(len(file_names)):
                     min_sim_value = similarity_matrix[row, col]
                     min_sim_index = (row, col)
 
-        # 저장
+        # 저장 (origin파일명 컬럼 추가)
         row_from_file1 = df1.iloc[min_sim_index[0]].copy()
         row_from_file2 = df2.iloc[min_sim_index[1]].copy()
-        row_from_file1['파일명'] = file_names[i]
-        row_from_file2['파일명'] = file_names[j]
+        row_from_file1['origin파일명'] = file_names[i]
+        row_from_file2['origin파일명'] = file_names[j]
         row_from_file1['유사도'] = min_sim_value
         row_from_file2['유사도'] = min_sim_value
         least_similar_rows_across.append(row_from_file1)
@@ -89,6 +89,6 @@ for i in range(len(file_names)):
 most_similar_df = pd.DataFrame(most_similar_rows_within)
 least_similar_df = pd.DataFrame(least_similar_rows_across)
 
-# CSV 파일로 저장 (UTF-8 with BOM 인코딩 사용)
+# CSV 파일로 저장
 most_similar_df.to_csv('most_similar_rows_within.csv', index=False, encoding='utf-8-sig')
 least_similar_df.to_csv('least_similar_rows_across.csv', index=False, encoding='utf-8-sig')
