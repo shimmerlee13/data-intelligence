@@ -100,6 +100,10 @@ filtered_df['유클리디안 유사도 수'] = euclidean_similarity_counts
 filtered_df['피어슨 유사도 수'] = pearson_similarity_counts
 filtered_df['코사인 유사도 수'] = cosine_similarity_counts
 
+output_path_df = "filtered_df.csv"  # 저장할 파일 경로
+filtered_df.to_csv(output_path_df, index=False, encoding='utf-8-sig')
+print(f"유사도 결과 데이터프레임이 '{output_path_df}'에 저장되었습니다.")
+
 # 5. 정렬 및 결과 표시
 filtered_df_sorted = filtered_df.sort_values(by='코사인 유사도 수', ascending=False)
 
