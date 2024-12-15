@@ -1,8 +1,8 @@
 import pandas as pd
 
 # 통계 요약 데이터 파일 경로와 대분류 및 소분류 정보 파일 경로 설정
-summary_file_path = "../../data_parsing/statistics/summary_statistics.csv"
-classification_file_path = "../../data_parsing/statistics/classification_data.csv"  # 대분류 및 소분류 정보 CSV 파일
+summary_file_path = "../../1-1. describe_result/statistics/summary_statistics2.csv"
+classification_file_path = "../../1-1. describe_result/statistics/classification_data.csv"  # 대분류 및 소분류 정보 CSV 파일
 
 # CSV 파일 로드
 summary_df = pd.read_csv(summary_file_path)
@@ -22,7 +22,7 @@ for idx, row in classification_df.iterrows():
         summary_df.loc[mask, '소분류'] = row['소분류']
 
 # 결과 CSV 파일로 저장
-output_file_path = "../../data_parsing/statistics/summary_statistics_with_classification.csv"
+output_file_path = "../../1-1. describe_result/statistics/summary_statistics_with_classification2.csv"
 summary_df.to_csv(output_file_path, index=False, encoding='utf-8-sig')
 
 print("Merged file saved to:", output_file_path)
