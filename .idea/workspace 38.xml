@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d03c4334-1b24-4d50-999d-d10e7ec265fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data-intelligence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 15.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 20.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 31.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 32.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 33.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 34.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 35.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace 9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace(1).xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/deprecated/similarity_conclusion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/similarity/similarity_calculate/legacy/categorical_similarity.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/similarity/similarity_calculate/legacy/numerical_similarity.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/similarity/similarity_calculate/legacy/overall_similarity.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/similarity/similarity_calculate/similarity_cat_common.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/similarity/similarity_calculate/similarity_cat_representative.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/similarity/similarity_calculate/similarity_num_common.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/similarity/similarity_calculate/similarity_num_representative.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/similarity/similarity_feature_groups/similarity_feature_groups.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/statistics/classification_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/statistics/summary_statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/statistics/summary_statistics2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/statistics/summary_statistics_with_classification.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/statistics/summary_statistics_with_classification2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-1. describe_result/summary_statistics_cntcols.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/100_보건복지부 국립나주병원_진료비 청구 현황_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/101_국립암센터_24개종 암발생률_20231228.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/102_질병관리청_인체유래물은행현황_20240901.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/103_전라남도_장애인센터현황_20240909.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/104_근로복지공단_소속병원진료현황통계_소속병원 산재입원환자 요양기간별 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/105_질병관리청 국립마산병원_진료비 청구 현황_20230930.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/106_국립암센터_24개종 암 유병률_20231228.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/107_제주특별자치도_연도별건강조사주요지표현황_20240227.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/108_경기도 화성시_만성질환관리 프로그램 통계(운동)_20191231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/109_국립암센터 호스피스완화의료 전문기관 리스트_20170412.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/10_한국환경공단_수질오염 방제정보_수질오염 사고현황_20240718.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/110_의료분쟁 조정분석 현황(2015.6.1.)_.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/111_근로복지공단_소속병원진료현황통계_연도별 건강진단 및 작업환경 측정 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/112_건강보험심사평가원_의료기관 시군구별 진료비 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/113_국민건강보험공단_신규 중증(암)등록환자의 암유형별 등록인원 현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/113_근로복지공단_산재보험 지정의료기관 현황정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/114_건강보험심사평가원_의료행위별 성별 입원외래별 건강보험 진료 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/115_국민건강보험공단_복지용구 품목별 이용현황_20240331.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/116_건강보험심사평가원_전문병원 지정 현황_20210101.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/117_건강보험심사평가원_병원급이상 진료과목별 시도별 진료비 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/118_건강보험심사평가원_의원급 표시과목별 상병 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/119_국민건강보험공단_당뇨병의료이용률_20221231.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/11_서울의료원 주간 진료 시간표 현황.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/120_국민건강보험공단_고혈압의료이용률_20221231.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/121_국민건강보험공단_복지용구공급업체 정보검색_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/122-1_건강보험심사평가원_시군구별 성별 비만 진료 통계 2023.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/122-2_건강보험심사평가원_시군구별 성별 연령군별 비만 진료 통계 2023.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/122-3_작성기준(비만).xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/123_근로복지공단_산재심사 결정현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/124_근로복지공단_산재보험 지정의료기관 현황정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/125_근로복지공단_규모별 산재신청 승인현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/126_근로복지공단_지사별 진료비 지급현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/127_근로복지공단_업종별 산재신청 승인현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/128_한국장애인고용공단_장애인 표준사업장 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/12_한국보건의료인국가시험원_응시자 현황_의사_20240521.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/13_국민건강보험공단_건강검진검사항목코드_20240731.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/14_해양환경공단_해양쓰레기 조사_지역별_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/15_해양환경공단_해양환경측정망 정보_연안별 평균 해수수질현황_20211231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/17_환경부 국립환경과학원_토양오염실태조사 결과_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/18_환경부 국립환경과학원_환경측정기기 형식승인 현황_20231101.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/19_행정안전부_지진재해대응시스템_행정구역정보_20240808.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/1_한국환경공단_석면조사대상건축물현황(공공건축물)_20231019.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/20_환경부_온실가스종합정보센터_온실가스 배출량 산정방법 정보_20210929.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/21_대구광역시_북구_지하수시설_20240726.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/22_보건복지부_시군구별 치매현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/23_서울특별시 동작구_의류수거함 위치 데이터_20240911.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/24_서울특별시 서대문구_의류수거함 현황_20230301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/25_인천환경공단_청라사업소_소각시설_운영데이터_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/26_전북특별자치도_대기오염측정망 운영결과_20210930.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/27_충청북도_분기별날씨현황_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/28_한국환경공단_도로 재비산먼지 측정 정보_20240930.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/29_한국환경공단_재활용가능자원 가격조사_20240926.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/2_전국관광지정보표준데이터.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/30_해양환경공단_해양부유쓰레기 수거처리 정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/31_건강보험심사평가원_요양기관 개설 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/33_광주광역시 광주보건환경연구원 수질측정망 실태조사_20240903.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/34_근로복지공단_직영병원 진료수가_20191231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/35_대구광역시 북구_사업장폐기물배출자정보_20240502.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/36_대구광역시 북구_수경시설_20240501.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/37_대구광역시 북구_음식물쓰레기수거용기판매소_20240530.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/38_대구광역시 북구_특정토양오염관리대상시설_20240726.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/39_경찰청 서울특별시경찰청_경찰서별 5대범죄 발생 검거 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/3_전국배수펌프장표준데이터.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/40_경찰청 인천광역시경찰청_관서별 5대범죄 112신고건수 현황_20240314.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/41_경찰청_경찰관서 위치 주소 현황_20240731.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/42_경찰청_범죄 발생 시간대 및 요일_20191231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/43_경찰청_범죄 발생 장소별 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/44_경찰청_연도별 사이버 범죄 통계 현황_08_31_2020.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/45_경찰청_전국 경찰서별 강력범죄 발생 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/46_경찰청_졸음운전 교통사고 현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/47_고용노동부_안전관리전문기관 지정 현황_20240930.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/48_광주광역시_CCTV_20240630.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/49_국토안전관리원_건설안전사고 발생현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/4_건강보험심사평가원_의료기관별 감염병 및 중증환자 치료시설 현황 2022.6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-10_진료정보_피부염_시도.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-1_시군구지역코드.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-2_시도지역코드.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-3_진료정보_감기_시군구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-4_진료정보_감기_시도.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-5_진료정보_눈병_시군구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-6_진료정보_눈병_시도.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-7_진료정보_천식_시군구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-8_진료정보_천식_시도.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/5-9_진료정보_피부염_시군구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/50_대구광역시 북구_간선도로 적사함(제설함)_20240604.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/51_대구광역시 북구_고압가스제조업_20240701.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/52_대구광역시 북구_기계설비 성능점검 대상 건축물_20240329.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/53_도로교통공단_사망 교통사고 정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/54_부산광역시_수영구_민방위급수시설 현황_20241010.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/55_세종특별자치시_CCTV_20240531.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/56_소방청_다중이용업소 영업장별 고유 일련번호_20240807.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/57_소방청_시도 소방서 현황_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/58_소방청_화재발생 정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/59_충청북도_재난대응용 배수펌프장 현황_20240830.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/60_한국가스안전공사_전국 LPG 충전소 현황_20240926.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/61_한국가스안전공사_전국 도시가스충전소 현황_20240926.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/62_한국산업안전보건공단_건설업 공종별 세부공정 목록_20210910.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/63_한국소비자원 소비자 위해 정보_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/64_한국전기안전공사_전기화재통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/65_해양경찰청_해상조난사고 상세데이터 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/66_행정안전부_사고발생 현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/67_행정안전부_상습 결빙구간_20231222.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/6_국민건강보험공단_건강검진정보_20221231_수정.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/79_광주광역시_보건환경연구원 식품중 방사능 검사 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/7_서울특별시_양천구_폐건전지폐형광등분리수거함_20241010.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/80_광주광역시_보건환경연구원 지하수 노로바이러스 검사 현황_20231220.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/81_충청남도 당진시_담배소매인_20240701.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/82_한국의약품안전관리원_연도별증상별 이상사례보고현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/83_전라남도 여수시_공중위생업소 현황_20230915.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/84_충청북도 옥천군_공중위생업소현황_20240808.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/85_전라북도 정읍시_의료기관 현황_20221213.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/86_보건복지부_시도별 암 발생자 분포_20201231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/87_부산광역시 동래구_소독업소 현황_20231213.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/88_한국의약품안전관리원_노인주의약물_20240813.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/89_한국식품연구원_대표식품별 건강기능(학술) 정보_20190305.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/8_학생의체력증진에관한사항현황.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/90_충청북도 제천시_담배소매인지정현황_20240912.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/91_부산광역시_수영구_약국 현황_20240305.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/92_경기도 성남시_건강기능식품판매업_현황_20240417.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/93_인천광역시 서구_유통식품 방사능 수거검사 결과_20240805.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/94_한국의료기기안전정보원_품목코드_20240821.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/95_국립암센터_암발생 통계 정보_20231228.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/96_대구광역시 북구_의료기관 수술실 현황_20240531.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/97_보건복지부_시도별 암 발생자 분포_20201231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/98_강원특별자치도_의료시설 현황_20230821.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1. data/99_전라남도_광양시_보건소 의료장비 보유 현황_20241022.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/100_보건복지부 국립나주병원_진료비 청구 현황_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/101_국립암센터_24개종 암발생률_20231228.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/102_질병관리청_인체유래물은행현황_20240901.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/103_전라남도_장애인센터현황_20240909.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/104_근로복지공단_소속병원진료현황통계_소속병원 산재입원환자 요양기간별 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/105_질병관리청 국립마산병원_진료비 청구 현황_20230930.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/106_국립암센터_24개종 암 유병률_20231228.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/107_제주특별자치도_연도별건강조사주요지표현황_20240227.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/108_경기도 화성시_만성질환관리 프로그램 통계(운동)_20191231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/109_국립암센터 호스피스완화의료 전문기관 리스트_20170412.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/10_한국환경공단_수질오염 방제정보_수질오염 사고현황_20240718.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/110_의료분쟁 조정분석 현황(2015.6.1.)_.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/111_근로복지공단_소속병원진료현황통계_연도별 건강진단 및 작업환경 측정 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/112_건강보험심사평가원_의료기관 시군구별 진료비 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/113_국민건강보험공단_신규 중증(암)등록환자의 암유형별 등록인원 현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/113_근로복지공단_산재보험 지정의료기관 현황정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/114_건강보험심사평가원_의료행위별 성별 입원외래별 건강보험 진료 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/115_국민건강보험공단_복지용구 품목별 이용현황_20240331.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/116_건강보험심사평가원_전문병원 지정 현황_20210101.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/117_건강보험심사평가원_병원급이상 진료과목별 시도별 진료비 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/118_건강보험심사평가원_의원급 표시과목별 상병 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/119_국민건강보험공단_당뇨병의료이용률_20221231.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/11_서울의료원 주간 진료 시간표 현황.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/120_국민건강보험공단_고혈압의료이용률_20221231.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/121_국민건강보험공단_복지용구공급업체 정보검색_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/122-1_건강보험심사평가원_시군구별 성별 비만 진료 통계 2023.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/122-2_건강보험심사평가원_시군구별 성별 연령군별 비만 진료 통계 2023.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/123_근로복지공단_산재심사 결정현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/124_근로복지공단_산재보험 지정의료기관 현황정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/125_근로복지공단_규모별 산재신청 승인현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/126_근로복지공단_지사별 진료비 지급현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/127_근로복지공단_업종별 산재신청 승인현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/128_한국장애인고용공단_장애인 표준사업장 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/12_한국보건의료인국가시험원_응시자 현황_의사_20240521.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/13_국민건강보험공단_건강검진검사항목코드_20240731.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/14_해양환경공단_해양쓰레기 조사_지역별_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/15_해양환경공단_해양환경측정망 정보_연안별 평균 해수수질현황_20211231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/17_환경부 국립환경과학원_토양오염실태조사 결과_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/18_환경부 국립환경과학원_환경측정기기 형식승인 현황_20231101.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/19_행정안전부_지진재해대응시스템_행정구역정보_20240808.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/1_한국환경공단_석면조사대상건축물현황(공공건축물)_20231019.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/20_환경부_온실가스종합정보센터_온실가스 배출량 산정방법 정보_20210929.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/21_대구광역시_북구_지하수시설_20240726.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/22_보건복지부_시군구별 치매현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/23_서울특별시 동작구_의류수거함 위치 데이터_20240911.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/24_서울특별시 서대문구_의류수거함 현황_20230301.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/25_인천환경공단_청라사업소_소각시설_운영데이터_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/26_전북특별자치도_대기오염측정망 운영결과_20210930.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/27_충청북도_분기별날씨현황_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/28_한국환경공단_도로 재비산먼지 측정 정보_20240930.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/29_한국환경공단_재활용가능자원 가격조사_20240926.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/2_전국관광지정보표준데이터.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/30_해양환경공단_해양부유쓰레기 수거처리 정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/31_건강보험심사평가원_요양기관 개설 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/33_광주광역시 광주보건환경연구원 수질측정망 실태조사_20240903.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/34_근로복지공단_직영병원 진료수가_20191231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/35_대구광역시 북구_사업장폐기물배출자정보_20240502.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/36_대구광역시 북구_수경시설_20240501.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/37_대구광역시 북구_음식물쓰레기수거용기판매소_20240530.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/38_대구광역시 북구_특정토양오염관리대상시설_20240726.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/39_경찰청 서울특별시경찰청_경찰서별 5대범죄 발생 검거 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/3_전국배수펌프장표준데이터.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/40_경찰청 인천광역시경찰청_관서별 5대범죄 112신고건수 현황_20240314.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/41_경찰청_경찰관서 위치 주소 현황_20240731.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/42_경찰청_범죄 발생 시간대 및 요일_20191231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/43_경찰청_범죄 발생 장소별 통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/44_경찰청_연도별 사이버 범죄 통계 현황_08_31_2020.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/45_경찰청_전국 경찰서별 강력범죄 발생 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/46_경찰청_졸음운전 교통사고 현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/47_고용노동부_안전관리전문기관 지정 현황_20240930.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/48_광주광역시_CCTV_20240630.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/49_국토안전관리원_건설안전사고 발생현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/4_건강보험심사평가원_의료기관별 감염병 및 중증환자 치료시설 현황 2022.6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-10_진료정보_피부염_시도.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-1_시군구지역코드.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-2_시도지역코드.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-3_진료정보_감기_시군구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-4_진료정보_감기_시도.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-5_진료정보_눈병_시군구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-6_진료정보_눈병_시도.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-7_진료정보_천식_시군구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-8_진료정보_천식_시도.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/5-9_진료정보_피부염_시군구.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/50_대구광역시 북구_간선도로 적사함(제설함)_20240604.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/51_대구광역시 북구_고압가스제조업_20240701.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/52_대구광역시 북구_기계설비 성능점검 대상 건축물_20240329.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/53_도로교통공단_사망 교통사고 정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/54_부산광역시_수영구_민방위급수시설 현황_20241010.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/55_세종특별자치시_CCTV_20240531.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/57_소방청_시도 소방서 현황_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/58_소방청_화재발생 정보_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/59_충청북도_재난대응용 배수펌프장 현황_20240830.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/60_한국가스안전공사_전국 LPG 충전소 현황_20240926.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/61_한국가스안전공사_전국 도시가스충전소 현황_20240926.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/62_한국산업안전보건공단_건설업 공종별 세부공정 목록_20210910.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/63_한국소비자원 소비자 위해 정보_20240630.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/64_한국전기안전공사_전기화재통계_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/65_해양경찰청_해상조난사고 상세데이터 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/66_행정안전부_사고발생 현황_20221231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/67_행정안전부_상습 결빙구간_20231222.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/79_광주광역시_보건환경연구원 식품중 방사능 검사 현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/7_서울특별시_양천구_폐건전지폐형광등분리수거함_20241010.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/80_광주광역시_보건환경연구원 지하수 노로바이러스 검사 현황_20231220.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/81_충청남도 당진시_담배소매인_20240701.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/82_한국의약품안전관리원_연도별증상별 이상사례보고현황_20231231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/83_전라남도 여수시_공중위생업소 현황_20230915.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/84_충청북도 옥천군_공중위생업소현황_20240808.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/85_전라북도 정읍시_의료기관 현황_20221213.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/86_보건복지부_시도별 암 발생자 분포_20201231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/87_부산광역시 동래구_소독업소 현황_20231213.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/88_한국의약품안전관리원_노인주의약물_20240813.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/8_학생의체력증진에관한사항현황.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/90_충청북도 제천시_담배소매인지정현황_20240912.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/91_부산광역시_수영구_약국 현황_20240305.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/93_인천광역시 서구_유통식품 방사능 수거검사 결과_20240805.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/94_한국의료기기안전정보원_품목코드_20240821.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/95_국립암센터_암발생 통계 정보_20231228.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/96_대구광역시 북구_의료기관 수술실 현황_20240531.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/97_보건복지부_시도별 암 발생자 분포_20201231.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/98_강원특별자치도_의료시설 현황_20230821.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_utf8/99_전라남도_광양시_보건소 의료장비 보유 현황_20241022.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/environment.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deprecated/similarity_conclusion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_download/encoding_utf8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/file_download/file_download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/finding_pk_fk/finding_pk_fk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/least_similar_rows_across.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/most_similar_rows_within.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/newfile3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/result/교육_filtered.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/result/농업농촌_filtered.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/result/문화관광_filtered.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/result/보건의료_filtered.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/result/산업고용_filtered.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/result/식품건강_filtered.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/result/재난안전_filtered.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/new2/result/환경기상_filtered.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sakila/fk_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sakila/pk_analysis_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sakila/pk_results.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sakila/sakila_이상치_분석결과_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sakila_finding_fk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sakila_finding_pk2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sakila_mo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sakila_rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/attribute_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/legacy/similarity_calculate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/legacy/similarity_count_2_241116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/legacy/similarity_count_cat_241215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/legacy/similarity_count_num_241116.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/legacy/similarity_count_num_common_241215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/legacy/similarity_feature_groups.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/similarity_count_cat2_common_241215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/similarity_count_cat2_representative_241215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/similarity_count_num2_common_241215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/similarity/similarity_count_num2_representative_241215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statistics/summary_statistics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/statistics/summary_statistics_with_classification.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2qIOx77ZIgvJv6EKlFQvo8Cq7uo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d03c4334-1b24-4d50-999d-d10e7ec265fc" name="Changes" comment="" />
+      <created>1734346867343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734346867343</updated>
+    </task>
+    <servers />
+  </component>
+</project>
